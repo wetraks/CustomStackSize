@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CustomStackSize.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\barte\Downloads\sml_m\Intermediate\Build\Win64\x64\FactoryEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\barte\Downloads\sml_m\Mods\CustomStackSize\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomStackSize\Module.CustomStackSize.cpp.obj"
+"C:\Users\barte\Downloads\sml_m\Mods\CustomStackSize\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomStackSize\Default.rc2.res"
+/OUT:"C:\Users\barte\Downloads\sml_m\Mods\CustomStackSize\Intermediate\Build\Win64\x64\UnrealEditor\Development\CustomStackSize\UnrealEditor-CustomStackSize.lib"

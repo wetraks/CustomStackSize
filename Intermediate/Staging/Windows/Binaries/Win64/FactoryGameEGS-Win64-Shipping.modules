@@ -1,0 +1,7 @@
+{
+	"BuildId": "SML",
+	"Modules": 
+	{
+		"CustomStackSize": "FactoryGameEGS-CustomStackSize-Win64-Shipping.dll"
+	}
+}

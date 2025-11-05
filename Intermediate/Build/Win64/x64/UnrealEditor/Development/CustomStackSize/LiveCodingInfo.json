@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CustomStackSize.cpp.obj": [
+			"CustomStackSize.cpp.obj"
+		]
+	}
+}
