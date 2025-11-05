@@ -1,7 +1,0 @@
-{
-	"BuildId": "SML",
-	"Modules": 
-	{
-		"CustomStackSize": "FactoryServer-CustomStackSize-Win64-Shipping.dll"
-	}
-}
